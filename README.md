@@ -1,0 +1,2 @@
+# iqrencode
+基于libqrencode、libpng开发的Lua扩展库，用于生成带Logo及提示语的自定义二维码
